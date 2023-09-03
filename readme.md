@@ -40,16 +40,29 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238192493-8d077bb1-c29a-4100-a0e2-b3bc27244820.svg" alt="instagram" width="50" height="50"/>
 </a>
 <a href="https://twitter.com/MohammadAmin_pg" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="instagram" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="twitter" width="50" height="50"/>
 </a>
 <a href="pg.mohammadamin@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="instagram" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="50" height="50"/>
 </a>
 <a href="https://join.skype.com/invite/g0b7X6fUIJ6u" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" alt="instagram" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" alt="skype" width="50" height="50"/>
 </a>
 <a href="https://open.spotify.com/user/31nzb5buqmpfyxtcusyqvajoxunu" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="instagram" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="spotify" width="50" height="50"/>
+</a>
+
+## 🔧 Tools:
+
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="50" height="50"/>
+</a>
+<a href="https://developer.android.com/studio?gclid=CjwKCAjw3dCnBhBCEiwAVvLcu6fcZ34Hm8rEqtLlzZ9rHhItPpr540icbMPlOlrfZWPoy5ZwOuiCtRoCI1EQAvD_BwE&gclsrc=aw.ds" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="vscode" width="50" height="50"/>
+</a>
+<a href="https://www.jetbrains.com/idea/promo/?source=google&medium=cpc&campaign=9736965298&term=intellij&content=602143185985&gad=1&gclid=CjwKCAjw3dCnBhBCEiwAVvLcux1YnAOjYo9hHbb3SU9aIzhLYi9xRTDeZHccO9n7_xmuvbTIpsdgjxoCkFkQAvD_BwE" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="vscode" width="50" height="50"/>
 </a>
 
 -----------------
