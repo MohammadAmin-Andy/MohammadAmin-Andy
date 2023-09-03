@@ -64,6 +64,12 @@
 <a href="https://www.jetbrains.com/idea/promo/?source=google&medium=cpc&campaign=9736965298&term=intellij&content=602143185985&gad=1&gclid=CjwKCAjw3dCnBhBCEiwAVvLcux1YnAOjYo9hHbb3SU9aIzhLYi9xRTDeZHccO9n7_xmuvbTIpsdgjxoCkFkQAvD_BwE" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="vscode" width="50" height="50"/>
 </a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="50" height="50"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="50" height="50"/>
+</a>
 
 -----------------
 
