@@ -17,8 +17,8 @@
 
 ## 🧠 Programming languages ​​I have learned so far ( Respectively)
 
-<p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="python" width="50" height="50"/> </a> <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="C language" width="50" height="50"/> </a> 
-<a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="http://www.w3.org/2000/svg" alt="C++ language" width="50" height="50"/> </a> 
+<p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" width="50" height="50"/> </a> 
+<a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" width="50" height="50"/> </a> 
 <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" width="50" height="50"/> </a> </p>
 
 
