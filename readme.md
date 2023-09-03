@@ -15,17 +15,48 @@
 - 🎮  Work that makes me happy: Programming, video games, music, books, learning about cars.
  
 
-## 🧠 Programming languages ​​I have learned so far ( Respectively)
+## 🧠 Programming languages ​​I have learned so far ( Respectively):
 
 <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" width="50" height="50"/> </a> 
 <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" width="50" height="50"/> </a> 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/dart.svg" alt="Dart language" width="50" height="50"/> </a> </p>
 
 
+## 🛠 Skills:
 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
+## 🔗  Let's get connected:
 
+<a href="https://t.me/real_Mamin" target="_blank">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238192520-a8429250-0cbb-46d1-9ad6-b82fb8b99349.svg" alt="telegram" width="50" height="50"/>
+</a>
 
+<a href="https://www.linkedin.com/in/mohammad-amin-amirkolaei-andy-588448239" target="_blank">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238661011-148a23f5-07be-4fb9-bda2-6671852ca716.svg" alt="linkedin" width="50" height="50"/>
+</a>
+<a href="" target="_blank">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238192493-8d077bb1-c29a-4100-a0e2-b3bc27244820.svg" alt="instagram" width="50" height="50"/>
+</a>
+<a href="https://twitter.com/MohammadAmin_pg" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="instagram" width="50" height="50"/>
+</a>
+<a href="pg.mohammadamin@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="instagram" width="50" height="50"/>
+</a>
+<a href="https://join.skype.com/invite/g0b7X6fUIJ6u" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" alt="instagram" width="50" height="50"/>
+</a>
+<a href="https://open.spotify.com/user/31nzb5buqmpfyxtcusyqvajoxunu" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="instagram" width="50" height="50"/>
+</a>
+
+-----------------
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAmin-Andy&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MohammadAmin-Andy&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=masihgh&theme=dark&hide_border=true)
 
 -----------------
 
