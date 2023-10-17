@@ -1,7 +1,11 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+
 ### Hey there 👋🏻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=10000&color=149414&vCenter=true&multiline=true&repeat=false&width=526&lines=I'm+MoahmmadAmin-Andy(Mamin)+Dart+Programmer+work+with+Flutter+FrameWork.)](https://git.io/typing-svg)
 
+-----------------
+![](https://github.com/MohammadAmin-Andy/MohammadAmin-Andy/blob/main/images/header.png) 
 -----------------
 
 - 💻  I am currently learning Dart Flutter.
@@ -86,3 +90,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammadAmin-Andy" alt="MohammadAmin-Andy" /></a> </p
 
 -----------------
+
+
+![♪ waving](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
