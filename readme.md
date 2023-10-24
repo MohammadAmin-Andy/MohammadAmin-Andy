@@ -10,7 +10,6 @@
 
 - 💻  I am currently learning Dart Flutter.
 - 📱 Mobile programming is my favorite field and I like to learn different languages ​​deeply in this field.
-- ⌨️ Love everything about computers, technology and programming.
 - 👨🏻‍🎓  I am a computer engineering student at the university.
 - 👨🏻‍💻  You can check [my last repositories.](https://github.com/MohammadAmin-Andy?tab=repositories)
 - ⭐   You can check [my most starred projects.](https://github.com/MohammadAmin-Andy?tab=repositories&q=&type=&language=&sort=stargazers)
