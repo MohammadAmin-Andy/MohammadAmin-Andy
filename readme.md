@@ -16,7 +16,7 @@
 - 👨🏻‍🎓  I am a computer engineering student at the university.
 - 👨🏻‍💻  You can check [my last repositories.](https://github.com/MohammadAmin-Andy?tab=repositories)
 - ⭐   You can check [my most starred projects.](https://github.com/MohammadAmin-Andy?tab=repositories&q=&type=&language=&sort=stargazers)
-- 📧  The best way to contact me  [![image](https://img.shields.io/badge/-pg.mohammadamin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pg.mohammadamin@gmail.com)](mailto:pg.mohammadamin@gmail.com)
+- 📧  The best way to contact me  [![image](https://img.shields.io/badge/-mohammadamin.andy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammadamin.andy@gmail.com)](mailto:mohammadamin.andy@gmail.com)
  
 ## 🛠 Skills:
 
@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/mohammad-amin-amirkolaei-andy-588448239" target="_blank">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238661011-148a23f5-07be-4fb9-bda2-6671852ca716.svg" alt="linkedin" width="50" height="50"/>
 </a>
-<a href="pg.mohammadamin@gmail.com" target="_blank">
+<a href="mohammadamin.andy@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="50" height="50"/>
 </a>
 
