@@ -29,14 +29,6 @@
 }
 ```
 
-### > tail -f activity_log
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAmin-Andy&theme=dark&hide_border=true&show_icons=true&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAmin-Andy&theme=dark&hide_border=true&layout=compact&bg_color=00000000" height="150" />
-</p>
-
----
-
 ### > connect --with-me
 <p align="left">
   <a href="mailto:mohammadamin.andy@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
