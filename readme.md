@@ -9,7 +9,7 @@
 
 ### > whoami
 ```bash
-  Name:       MohammadAmin-Andy (Mamin)
+  Name:       MohammadAmin-Andy (Mamin) 
   Role:       Mobile Application Developer
   Status:     Computer Engineering Student
   Motto:      "Stay hungry, stay foolish."
