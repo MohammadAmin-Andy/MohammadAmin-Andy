@@ -18,7 +18,7 @@
 ### > ls -l projects/
 ```bash
   total 0
-  # Loading high-quality benchmarks...
+  
 ```
 
 ### > cat stack.json
