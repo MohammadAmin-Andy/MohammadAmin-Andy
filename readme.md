@@ -17,7 +17,7 @@
 
 ### > ls -l projects/
 ```bash
-  total 0
+  
   
 ```
 
