@@ -2,7 +2,7 @@
 
 <!-- Header Image: Steve Jobs & Picasso -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadAmin-Andy/MohammadAmin-Andy/main/images/jobs-picasso.png" width="100%" alt="Steve Jobs & Picasso">
+<img width="2847" height="1602" alt="header" src="https://github.com/user-attachments/assets/9e15e239-bb29-4ca0-be70-7ad1d7dd4435" />
 </p>
 
 ---
